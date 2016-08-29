@@ -1,0 +1,1 @@
+javascript:(function()%7BArray.prototype.forEach.call(document.querySelectorAll(%22.js-comment-container%22)%2Cfunction(t)%7Bt.setAttribute(%22style%22%2C%22display%3Anone%22)%7D)%3B%7D)()
