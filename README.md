@@ -2,8 +2,10 @@ Bookmarklet: hide issuecomment for GitHub
 =========================================
 
 ```
+$ npm i -g bookmarklet
 $ rake
 $ git add .
+$ git commit
 $ git push
 ```
 https://kyanny.github.io/bookmarklet-hide-issuecomment-for-github/
